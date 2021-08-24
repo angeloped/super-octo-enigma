@@ -1,0 +1,42 @@
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 0.0.0.0:80              0.0.0.0:*               LISTEN      1227/webs
+tcp        0      0 127.0.0.1:53            0.0.0.0:*               LISTEN      2243/dnsmasq_edns
+tcp        0      0 192.168.1.1:53          0.0.0.0:*               LISTEN      2243/dnsmasq_edns
+tcp        0      0 0.0.0.0:23              0.0.0.0:*               LISTEN      1184/load_cli
+tcp        0      0 0.0.0.0:7547            0.0.0.0:*               LISTEN      1489/agent
+tcp        0      0 0.0.0.0:443             0.0.0.0:*               LISTEN      1227/webs
+tcp        0      0 2001:4454:616:1c00:ce06:77ff:fe5c:9ca8:53 :::*                    LISTEN      2243/dnsmasq_edns
+tcp        0      0 ::1:53                  :::*                    LISTEN      2243/dnsmasq_edns
+tcp        0      0 fe80::1000:53           :::*                    LISTEN      2243/dnsmasq_edns
+tcp        0      0 :::26                   :::*                    LISTEN      20124/telnetd
+udp        0      0 0.0.0.0:5683            0.0.0.0:*                           435/fhlinkserverd
+udp        0      0 127.0.0.1:53            0.0.0.0:*                           2243/dnsmasq_edns
+udp        0      0 192.168.1.1:53          0.0.0.0:*                           2243/dnsmasq_edns
+udp        0      0 0.0.0.0:67              0.0.0.0:*                           979/udhcpd
+udp        0      0 10.25.103.34:3011       0.0.0.0:*                           799/sip
+udp        0      0 9.31.103.214:5060       0.0.0.0:*                           799/sip
+udp        0      0 0.0.0.0:18401           0.0.0.0:*                           1064/shrcad
+udp        0      0 0.0.0.0:18401           0.0.0.0:*                           1064/shrcad
+udp        0      0 0.0.0.0:18401           0.0.0.0:*                           1064/shrcad
+udp        0      0 0.0.0.0:18401           0.0.0.0:*                           1064/shrcad
+udp        0      0 0.0.0.0:18401           0.0.0.0:*                           1064/shrcad
+udp        0      0 0.0.0.0:18401           0.0.0.0:*                           1064/shrcad
+udp        0      0 0.0.0.0:18401           0.0.0.0:*                           1064/shrcad
+udp        0      0 0.0.0.0:18401           0.0.0.0:*                           1064/shrcad
+udp        0      0 0.0.0.0:18401           0.0.0.0:*                           1064/shrcad
+udp        0      0 0.0.0.0:18401           0.0.0.0:*                           1064/shrcad
+udp        0      0 0.0.0.0:18401           0.0.0.0:*                           1064/shrcad
+udp        0      0 0.0.0.0:18401           0.0.0.0:*                           1064/shrcad
+udp        0      0 0.0.0.0:18401           0.0.0.0:*                           1064/shrcad
+udp        0      0 0.0.0.0:18401           0.0.0.0:*                           1064/shrcad
+udp        0      0 0.0.0.0:18401           0.0.0.0:*                           1064/shrcad
+udp        0      0 0.0.0.0:18401           0.0.0.0:*                           1064/shrcad
+udp        0      0 0.0.0.0:18401           0.0.0.0:*                           1064/shrcad
+udp        0      0 0.0.0.0:18401           0.0.0.0:*                           1064/shrcad
+udp        0      0 :::546                  :::*                                2148/dhcp6c
+udp        0      0 :::547                  :::*                                2251/dhcp6s
+udp        0      0 :::37674                :::*                                2251/dhcp6s
+udp        0      0 2001:4454:616:1c00:ce06:77ff:fe5c:9ca8:53 :::*                                2243/dnsmasq_edns
+udp        0      0 ::1:53                  :::*                                2243/dnsmasq_edns
+udp        0      0 fe80::1000:53           :::*                                2243/dnsmasq_edns

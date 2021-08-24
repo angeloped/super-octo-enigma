@@ -1,0 +1,97 @@
+
+Satori botnet
+https://unit42.paloaltonetworks.com/unit42-iot-malware-evolves-harvest-bots-exploiting-zero-day-home-router-vulnerability/
+
+find . | sed -e "s/[^-][^\/]*\// |/g" -e "s/|\([^ ]\)/|-\1/"
+
+CVE-2014-8361 huawei
+
+
+https://www.trendmicro.com/vinfo/us/security/news/internet-of-things/fbot-aka-satori-is-back-with-new-peculiar-obfuscation-brute-force-techniques
+
+CVE-2020-4547
+
+https://nvd.nist.gov/vuln/detail/CVE-2020-4547
+https://www.incibe-cert.es/en/blog/attacking-busybox-small-gaulish-village
+
+https://www.bloomberg.com/cybersecurity
+
+https://hpd.gasmi.net/ --- http packet highlighter
+https://en.wikipedia.org/wiki/Mirai_(malware)
+
+https://github.com/FGF-College-Work/Noticias/issues/27
+
+https://unit42.paloaltonetworks.com/unit42-iot-malware-evolves-harvest-bots-exploiting-zero-day-home-router-vulnerability/
+
+https://www.exploit-db.com/exploits/37169
+
+https://securityaffairs.co/wordpress/67227/malware/cve-2017-17215-exploit-code.html
+
+
+https://github.com/Spacial/awesome-csirt
+
+https://www.google.com/search?q=batkek+mipsel&ie=utf-8&oe=utf-8&client=firefox-b-e
+
+
+https://0x00sec.org/t/internet-chemotherapy/4664/5
+https://github.com/13lackWidow/Internet-Chemotherapy
+
+
+
+"Introduction
+NewSky Security observed that a known threat actor released working code for Huawei vulnerability CVE-2017–17215 free of charge on Pastebin this Christmas. This exploit has already been weaponized in two distinct IoT botnet attacks, namely Satori and Brickerbot.
+CVE-2017–17215, a vulnerability in Huawei HG532 devices, was discovered during a zero-day Satori attack by Checkpoint and was discreetly reported to Huawei for a fix. The proof of concept code was not made public to prevent attackers from abusing it. However, with the release of the full code now by the threat actor, we expect its usage in more cases by script kiddies and copy-paste botnet masters."
+https://blog.newskysecurity.com/huawei-router-exploit-involved-in-satori-and-brickerbot-given-away-for-free-on-christmas-by-ac52fe5e4516
+
+
+https://www.bleepingcomputer.com/news/security/brickerbot-author-retires-claiming-to-have-bricked-over-10-million-iot-devices/
+
+https://twitter.com/treadstone71llc/status/1279701936883879936
+
+https://pastebin.com/AZwaVCxy -- brickerbot
+
+https://pastebin.com/u/Jihadi4Prez -- Jihadi4Prez's Pastebin
+
+https://pastebin.com/MkbZNV29  huawei exploit
+
+https://pastebin.com/rhVCcpH2
+
+https://www.youtube.com/watch?v=oDkg1zz6xlw
+https://www.reuters.com/article/ukraine-cyber/ukraine-accuses-russian-networks-of-new-massive-cyber-attacks-idUSL1N2KS1BD
+
+
+https://hybrid-analysis.com/sample/f9a4c6857bb3a4feebb232c54e6ecffd3742ce598b48e975d675b38232b8e30e?environmentId=300&lang=ja&fbclid=IwAR3CfSXNH0upb2_lNcGuzJC5RDjOB8iC9CvbanOUz2jP6WzLXtKinaRxevA
+
+
+
+https://twitter.com/9gigs_proxypipe (botnet operator????)
+
+"""
+https://ipinfo.io/AS63927
+https://ipinfo.io/AS9299
+https://ipinfo.io/AS7629
+https://ipinfo.io/AS134140
+https://ipinfo.io/AS7707
+https://ipinfo.io/AS45664
+https://ipinfo.io/AS18396
+https://anti-hacker-alliance.com/index.php?ip=195.62.53.196
+
+https://security.stackexchange.com/questions/9322/nmap-scan-shows-ports-are-filtered-but-nessus-scan-shows-no-result#
+https://nmap.org/book/firewall-subversion.html
+https://serverfault.com/questions/672938/is-there-a-way-to-see-what-is-actually-filtering-tcp-port-communication
+"""
+
+
+
+"""
+sudo netstat -tulpen # View listening processes
+sudo netstat -atupen # View all network connections
+sudo ss -tlunp # View listening processes
+sudo ss -taunp # View all network connections
+sudo lsof -nP -i # View all network connections
+sudo lsof -nP -iTCP -sTCP:LISTEN # View listening processes
+tcpdump
+"""
+
+
+

